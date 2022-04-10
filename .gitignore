@@ -1,0 +1,6 @@
+# MAC annoyances
+.DS_Store
+*/.DS_Store
+
+# Python annoyances
+*pycache*
